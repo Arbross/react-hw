@@ -1,0 +1,30 @@
+.element {
+    display: inline-flex;
+    padding: 20px;
+    background-color:brown;
+    margin: 5px;
+    color: white;
+}
+
+.title {
+    color:brown;
+    margin: 5px;
+}
+
+input {
+    margin: 5px;
+    border: 0;
+}
+
+.add-element {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.createBtn {
+    margin: 25px;
+    border: white solid 1px;
+    background-color: brown;
+    color: white;
+}
